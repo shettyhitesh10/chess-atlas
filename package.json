@@ -1,0 +1,11 @@
+{
+  "name": "chess-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A chess game, unfolded in 3D",
+  "scripts": {
+    "start": "npm --prefix work/chess-atlas start",
+    "test": "npm --prefix work/chess-atlas test"
+  },
+  "engines": { "node": ">=18" }
+}

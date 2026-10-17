@@ -1,0 +1,51 @@
+[Event "260-move Simulation - Generated Continuation"]
+[Site "Chess Atlas"]
+[Date "2026.10.17"]
+[Round "1"]
+[White "White Simulation"]
+[Black "Black Simulation"]
+[Result "1/2-1/2"]
+[PlyCount "520"]
+[Termination "Draw by agreement"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1 Re8
+9. Bf1 h6 10. d5 a5 11. Rb1 Nc5 12. b3 Bd7 13. a3 Nh7 14. Be3 b6 15. Nd2 f5 16. f3 Rf8
+17. b4 Nb7 18. Qc2 f4 19. Bf2 g5 20. c5 bxc5 21. bxc5 Nxc5 22. Bxc5 dxc5 23. Na4 g4
+24. Nxc5 Bc8 25. Ne6 Bxe6 26. dxe6 Qd4+ 27. Kh1 c5 28. e7 Rfe8 29. Rb7 Nf6 30. Nb3 Qd6
+31. Rd1 Qc6 32. Qc4+ Kh7 33. Nxc5 Rac8 34. Qb5 Qxc5 35. Qxc5 Rxc5 36. Bb5 Rxb5
+37. Rxb5 Rxe7 38. Rxa5 h5 39. Kg1 h4 40. Kf2 h3 41. gxh3 gxf3 42. Kxf3 Ne8 43. Ra6 Rc7
+44. Rd3 Rc2 45. a4 Rxh2 46. Kg4 Nf6+ 47. Kf5 Re2 48. Rxf6 Bxf6 49. Kxf6 Rxe4 50. Re3 Rxe3
+51. Ke6 Rxh3 52. Kxe5 Rh5+ 53. Kf6 Re5 54. Kxe5 Kh6 55. Kd6 Kg5 56. Kd7 Kh6 57. Kd6 Kh7
+58. Ke7 Kg7 59. Kd8 Kh8 60. Kc8 Kg8 61. Kb7 Kh8 62. Ka6 Kh7 63. Kb5 Kg8 64. Kb4 Kg7
+65. Kb5 Kg6 66. Ka6 Kg5 67. Kb7 Kg4 68. Kc6 Kg5 69. Kd5 Kf5 70. Kc5 Ke6 71. Kb5 Ke5
+72. Ka5 Kd6 73. Kb6 Kd5 74. Kb5 Ke5 75. Ka6 Ke6 76. Kb5 Kf6 77. Kc5 Kf5 78. Kc6 Ke5
+79. Kd7 Kd5 80. Kc8 Ke6 81. Kd8 Kd6 82. Ke8 Kd5 83. Kf7 Ke4 84. Kf8 Kd3 85. Kg7 Kc2
+86. Kh6 Kd3 87. Kh7 Kc2 88. Kg8 Kb1 89. Kf8 Kb2 90. Ke7 f3 91. Kf6 Kb1 92. Kg7 Kb2
+93. Kf6 Ka1 94. Kg5 Kb1 95. Kf6 Kc2 96. Ke7 Kd1 97. Ke8 Kc1 98. Kf8 Kb2 99. Ke8 Kb3
+100. Kd8 Kc2 101. Kc7 Kc1 102. Kc6 Kd1 103. Kc7 Kc1 104. Kd8 Kc2 105. Kd7 Kc3
+106. Ke8 Kd2 107. Kd8 Kc3 108. Kd7 Kb2 109. Kc6 Kc1 110. Kd6 Kd1 111. Ke5 Kd2
+112. Kd4 Kc1 113. Kd3 Kb1 114. Kd4 Kc2 115. Kd5 Kc3 116. Ke6 Kb4 117. Kd7 Kc3
+118. Kc6 Kb2 119. Kd6 Kb3 120. Kc7 Ka2 121. Kb6 Kb2 122. Kc6 Kc3 123. Kc5 Kb2
+124. Kb5 Kb3 125. Ka5 Kc4 126. Kb6 Kb4 127. a5 Ka3 128. Ka7 Kb4 129. Kb7 Kb3 130. Ka6 Kc3
+131. Kb5 Kd3 132. Ka6 Kc2 133. Kb5 Kc3 134. Ka6 Kb4 135. Kb6 Kb3 136. Kc7 Kb4
+137. Kc8 Kc3 138. Kb7 Kd3 139. Kb8 Ke2 140. Kc7 Kd1 141. Kb8 Kc2 142. Ka8 Kc3
+143. Kb7 Kc2 144. Ka8 Kd2 145. Ka7 Ke3 146. Ka8 Ke2 147. Kb7 Ke3 148. Ka7 Ke4
+149. Ka8 Ke3 150. Ka7 Ke4 151. Kb6 Kd4 152. Ka7 Kc4 153. Ka6 Kb3 154. Kb7 Kc2
+155. Kb8 Kd2 156. Ka7 Kc3 157. Ka6 Kc4 158. Ka7 Kb3 159. Kb7 Kc4 160. Kb6 Kd5
+161. Kb7 Kd6 162. Kb8 Ke6 163. Ka8 f2 164. Kb7 Kd7 165. Ka6 Kc6 166. Ka7 Kc5 167. Kb8 Kc6
+168. Ka7 Kd6 169. Kb7 Kc5 170. Kc8 Kd6 171. Kd8 Ke5 172. Ke7 Kd5 173. Kd7 Ke5
+174. Kd8 Ke4 175. Kc7 Kd3 176. Kd7 Kc3 177. Kc7 Kd3 178. Kb6 Ke3 179. Ka7 Ke2
+180. Ka6 Kd1 181. Kb5 Ke2 182. Kc6 Kd1 183. Kb6 Ke2 184. Kb7 Kd3 185. Ka7 Kd4
+186. Kb6 Kd5 187. Kb5 Kd4 188. Kc6 Kc4 189. Kd6 Kd4 190. Kc6 Kc3 191. Kb5 Kb3
+192. Kc6 Kc3 193. Kb5 Kb3 194. Ka6 Kb4 195. Kb7 Kc3 196. Kc8 Kb2 197. Kb8 Kb1
+198. Kb7 Ka2 199. Ka8 Ka3 200. a6 Ka2 201. Kb8 Kb2 202. Kc8 Kc3 203. Kd7 Kb2 204. Kc6 Kb3
+205. Kb6 Ka3 206. Kb7 Kb2 207. Kc7 Ka3 208. Kc8 Ka4 209. Kb7 Kb5 210. Kc8 Ka4
+211. Kd7 Ka3 212. Ke7 Ka4 213. Kd8 Kb5 214. Kc8 Ka5 215. Kc7 Kb5 216. Kb8 Kb4
+217. Kc7 Ka4 218. Kb7 Ka5 219. Ka8 Kb6 220. Kb8 Ka5 221. Ka8 Kxa6 222. Kb8 Kb5
+223. Kb7 Kc4 224. Kb6 Kb4 225. Kb7 Ka3 226. Ka8 Kb3 227. Kb7 Kc2 228. Kb8 Kd1
+229. Kc7 Ke2 230. Kc6 Kf1 231. Kc5 Ke1 232. Kd4 Kf1 233. Kc5 Kg1 234. Kb4 Kg2
+235. Ka5 Kh1 236. Kb4 Kg1 237. Ka4 Kf1 238. Ka5 Kg1 239. Kb4 Kf1 240. Kc4 Ke2
+241. Kc3 Ke1 242. Kb2 Kd2 243. Kb1 Kd1 244. Ka1 Kd2 245. Kb1 Kd3 246. Kb2 Kc4
+247. Kc2 Kd4 248. Kc1 Kc3 249. Kb1 Kb3 250. Kc1 Kc3 251. Kb1 Kc4 252. Ka1 Kc5
+253. Kb1 Kc4 254. Kc2 Kb4 255. Kb2 Ka4 256. Kc3 Ka3 257. Kd3 Kb2 258. Kd4 f1=Q
+259. Ke5 Qf4+ 260. Ke6 Qf6+ 1/2-1/2

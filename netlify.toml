@@ -1,0 +1,2 @@
+[build]
+  publish = "work/chess-atlas/dist"

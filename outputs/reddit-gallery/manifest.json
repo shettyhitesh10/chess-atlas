@@ -1,0 +1,92 @@
+[
+  {
+    "file": "01-opera-all-paths.jpg",
+    "title": "Every line is a life",
+    "game": "The Opera Game · Morphy vs Brunswick & Isouard · 1858",
+    "caption": "A whole chess game as a constellation: all 32 piece histories, with White in amber and Black in blue.",
+    "pgn": "games/opera-game-1858.pgn",
+    "ply": 33,
+    "settings": "All 32 pieces; two colors; captured pieces shown; Space & time"
+  },
+  {
+    "file": "02-carlsen-nepo-king-journeys.jpg",
+    "title": "Two kings, 136 moves",
+    "game": "Carlsen vs Nepomniachtchi · World Championship, game 6 · 2021",
+    "caption": "Only the two kings: long stretches of waiting turn into winding endgame journeys. Height is time.",
+    "pgn": "games/carlsen-nepomniachtchi-2021-g6.pgn",
+    "ply": 271,
+    "settings": "Both kings; only selected paths; two colors; captured pieces shown; Space & time"
+  },
+  {
+    "file": "03-carlsen-nepo-pawn-lifetimes.jpg",
+    "title": "The pawns tell a different story",
+    "game": "Carlsen vs Nepomniachtchi · World Championship, game 6 · 2021",
+    "caption": "All 16 pawn histories. Most end far below the final position; two White pawns make it to the end.",
+    "pgn": "games/carlsen-nepomniachtchi-2021-g6.pgn",
+    "ply": 271,
+    "settings": "All 16 original pawns; only selected paths; two colors; captured pieces shown; Space & time"
+  },
+  {
+    "file": "04-carlsen-nepo-rooks-vs-queen.jpg",
+    "title": "An endgame woven in light",
+    "game": "Carlsen vs Nepomniachtchi · World Championship, game 6 · 2021",
+    "caption": "White’s two rook histories against Black’s queen: 136 moves become an intricate weave. The player also supports back-and-forth replay up to 10×.",
+    "pgn": "games/carlsen-nepomniachtchi-2021-g6.pgn",
+    "ply": 271,
+    "settings": "White rooks a1 and h1 + Black queen d8; only selected paths; two colors; captured pieces hidden; Space & time; 10× selected, replay paused"
+  },
+  {
+    "file": "05-kasparov-topalov-king-hunt.jpg",
+    "title": "A king dragged across the board",
+    "game": "Kasparov vs Topalov · Wijk aan Zee · 1999",
+    "caption": "Topalov’s king starts on e8, castles queenside, then crosses the board and finishes on e1. One piece tells the story.",
+    "pgn": "games/kasparov-topalov-1999.pgn",
+    "ply": 87,
+    "settings": "Black king e8; only selected paths; two colors; captured pieces hidden; Space & time"
+  },
+  {
+    "file": "06-short-timman-king-march.jpg",
+    "title": "When the king joins the attack",
+    "game": "Short vs Timman · Tilburg · 1991",
+    "caption": "Short’s king route in board view: e1 → g1 → h2 → g3 → f4 → g5. This score ends after 34.Kg5.",
+    "pgn": "games/short-timman-1991.pgn",
+    "ply": 67,
+    "settings": "White king e1; only selected paths; one-color Moonlight; captured pieces hidden; Board view"
+  },
+  {
+    "file": "07-opera-queen-sacrifice.jpg",
+    "title": "The queen’s story ends here",
+    "game": "The Opera Game · Morphy vs Brunswick & Isouard · 1858",
+    "caption": "Morphy’s queen path glows through the rest of the game. It ends on b8, where the queen was sacrificed before 17.Rd8#.",
+    "pgn": "games/opera-game-1858.pgn",
+    "ply": 33,
+    "settings": "White queen d1; other paths faintly visible; one-color Moonlight; captured pieces shown; Space & time"
+  },
+  {
+    "file": "08-kasparov-topalov-four-knights.jpg",
+    "title": "Four knights, four lifetimes",
+    "game": "Kasparov vs Topalov · Wijk aan Zee · 1999",
+    "caption": "The four knights in Moonlight mode. Their angular routes end at different heights, marking when each knight was captured.",
+    "pgn": "games/kasparov-topalov-1999.pgn",
+    "ply": 87,
+    "settings": "All four original knights; only selected paths; one-color Moonlight; captured pieces shown; Space & time"
+  },
+  {
+    "file": "09-lasker-thomas-king-hunt.jpg",
+    "title": "From g8 all the way to g1",
+    "game": "Edward Lasker vs George Thomas · London · 1912",
+    "caption": "After castling, Black’s king is forced down the board to g1. The staircase of checks ends with 18.Kd2#.",
+    "pgn": "games/lasker-thomas-1912.pgn",
+    "ply": 35,
+    "settings": "Black king e8; only selected paths; one-color Moonlight; captured pieces hidden; Space & time"
+  },
+  {
+    "file": "10-kasparov-topalov-board-trails.jpg",
+    "title": "The pursuit, flattened into space",
+    "game": "Kasparov vs Topalov · Wijk aan Zee · 1999",
+    "caption": "The same king hunt in board view: White’s queen in amber, Black’s king in blue. Compare it with screenshot 05.",
+    "pgn": "games/kasparov-topalov-1999.pgn",
+    "ply": 87,
+    "settings": "White queen d1 + Black king e8; only selected paths; two colors; captured pieces hidden; Board view"
+  }
+]

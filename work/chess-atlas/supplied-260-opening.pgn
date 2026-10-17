@@ -1,0 +1,17 @@
+[Event "Long Endgame Simulation"]
+[White "Deep Strategy AI"]
+[Black "Endurance Master"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5
+8. Re1 Re8 9. Bf1 h6 10. d5 a5 11. Rb1 Nc5 12. b3 Bd7 13. a3 Nh7
+14. Be3 b6 15. Nd2 f5 16. f3 Rf8 17. b4 Nb7 18. Qc2 f4 19. Bf2 g5
+20. c5 bxc5 21. bxc5 Nxc5 22. Bxc5 dxc5 23. Na4 g4 24. Nxc5 Bc8
+25. Ne6 Bxe6 26. dxe6 Qd4+ 27. Kh1 c5 28. e7 Rfe8 29. Rb7 Nf6 30. Nb3 Qd6
+31. Rd1 Qc6 32. Qc4+ Kh7 33. Nxc5 Rac8 34. Qb5 Qxc5 35. Qxc5 Rxc5
+36. Bb5 Rxb5 37. Rxb5 Rxe7 38. Rxa5 h5 39. Kg1 h4 40. Kf2 h3 41. gxh3 gxf3
+42. Kxf3 Ne8 43. Ra6 Rc7 44. Rd3 Rc2 45. a4 Rxh2 46. Kg4 Nf6+ 47. Kf5 Re2
+48. Rxf6 Bxf6 49. Kxf6 Rxe4 50. a5 Re3 51. Rd7+ Kh6 52. Rd8 Kh7
+53. Rd7+ Kh6 54. a6 f3 55. a7 Ra3 56. Kxe5 Kg5 57. Rg7+ Kh4 58. Rf7 Kg3
+59. h4 Ra5+ 60. Ke4 Ra4+ 61. Ke3 Ra3+ 62. Kd4 f2 63. a8=Q f1=Q
+64. Qxa3+ Kxh4 65. Rxf1 Kg5 66. Qg3+ Kh6 67. Rh1# 1/2-1/2

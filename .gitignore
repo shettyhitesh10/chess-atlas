@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+.openai/
+outputs/netlify-sign-in.jpg
+work/netlify-deployment.json
